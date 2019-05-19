@@ -1,7 +1,7 @@
 # Site
 title:              "Felipe Nogueira"
-bio:                'My awesome blog'
-description:        "My awesome blog"
+bio:                'My awesome page'
+description:        "My awesome page"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.jpeg'
@@ -27,12 +27,9 @@ sass:
 
 # Social
 # if you don't have any of social below, comment the line.
-#email:
-#twitter:            username
-#facebook:           username
+
 github-url:         contatofnog
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-
 #medium:            '@username'
 #youtube:           username
 #youtube-channel:   channel
