@@ -8,7 +8,7 @@ logo:               'assets/img/logo.jpeg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
-url:                https://contatofnog.github.io
+url:                https://fnogcps.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -28,7 +28,7 @@ sass:
 # Social
 # if you don't have any of social below, comment the line.
 
-github-url:         contatofnog
+github-url:         fnogcps
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #medium:            '@username'
 #youtube:           username
